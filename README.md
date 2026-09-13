@@ -33,9 +33,9 @@ I worked on this project to practice SQL on a business-style problem. It's based
 ## Data Cleaning & Exploration
 
 Before jumping into analysis, I checked:
-- how many records each table actually had
-- whether any critical columns had nulls or missing values
-- and cleaned up anything incomplete or broken
+- How many records each table actually had
+- Whether any critical columns had nulls or missing values
+- Cleaned up anything incomplete or broken
 
 ---
 
