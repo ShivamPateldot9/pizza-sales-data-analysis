@@ -1,10 +1,10 @@
 
-# 🍕 Pizza Store Analysis SQL Project
+#  Pizza Store Analysis SQL Project
 
 ## Project Overview
 
 **Project Title**: Pizza Store Analysis
-**Level**: Beginner to Intermediate
+
 **Database**: `pizza_sales_db`
 
 I worked on this project to practice SQL on a business-style problem. It's based on a pizza store's sales data — orders, customers, pizza menu, everything. The goal was to actually dig into the data like a real analyst would: clean it up first, then answer the kind of questions different teams (finance, ops, marketing) would realistically ask.
