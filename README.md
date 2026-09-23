@@ -104,4 +104,4 @@ What % of customers ordered more than once.
 - Revenue Analysis: monthly and cumulative revenue trends, plus category-wise contribution, all mapped out.
 - Operational Insights: average order size and daily demand consistency give a good base for staffing decisions.
 
-Next up — building a Power BI dashboard on top of this to visualize these findings.
+
